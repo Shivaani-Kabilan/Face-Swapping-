@@ -1,5 +1,5 @@
 
-In this project, opencv and dlib are used to extract faces of human beings from a given image. A source image and a destination image are taken, and the face of destination image is replaced with the face of source image.
+In this project, opencv and dlib are used to extract faces of human beings from a given image. A source image and a destination image are taken, and the face of destination image is replaced with the face of source image. This project can be used in Augmented Reality applications like Snapchat.
 
 Step to run application:
 Step 1:	Create the copy of the project.
